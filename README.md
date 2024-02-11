@@ -1,6 +1,6 @@
 ### Olá! Eu sou Cristiano Cupertino
 
-- 🔭 Hoje trabalho como Analista de Teste | QA
+- 🔭 Trabalho como Analista de Teste | QA
 - 🌱 Estudando Automação de Testes | RobotFramework | Cypress
 - 📫 E-mail: cristianoscupertino@hotmail.com
 
