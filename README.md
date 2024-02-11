@@ -18,7 +18,6 @@
 <div align="start">  
 
   <i>Para maiores informações, contate-me nas redes sociais:</i><br> 
-  
   <a href="https://www.linkedin.com/in/cristiano-cupertino-5696383a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ![Snake animation](https://github.com/Matheus-Souza1/Matheus-Souza1/blob/output/github-contribution-grid-snake.svg)
