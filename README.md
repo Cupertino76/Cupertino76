@@ -1,7 +1,7 @@
 ### Olá! Eu sou Cristiano Cupertino
 
-- 🔭 Trabalho como Analista de Teste | QA
-- 🌱 Estudando Automação de Testes | RobotFramework | Cypress
+- 🔭 Trabalho como Analista de Teste de Software | QA | Qualidade de Software
+- 🌱 Estudando Automação de Testes | RobotFramework | Cypress | Appium 
 
 <div>
   <a href="https://github.com/Cupertino76"></a>
